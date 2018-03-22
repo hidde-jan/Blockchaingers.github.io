@@ -63,7 +63,7 @@ Team | Better Code Score
 
 Read more [On why it needs high quality code ](https://medium.com/@jstvssr/why-blockchain-needs-future-proof-code-cb09b39175e1#.bqfmcig55)
 
-Or about the [Dutch Blockchain Hackathon in Groningen](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code)
+Or about the [2017 Dutch Blockchain Hackathon in Groningen](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code)
 
 
 Let's build some great software!
