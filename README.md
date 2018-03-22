@@ -42,11 +42,11 @@ Team | Better Code Score
 
 ## How to get support
 
-1. Before the event, through [email](mailto:bettercodehub@sig.eu)
+1. Before the event, through [email](mailto:bettercodehub@sig.eu).
 
-2. During the event by talking to Better Code Hub jedi with questions about refactoring tactics and blockchain implementation
+2. During the event by talking to Better Code Hub jedi with questions about refactoring tactics and blockchain implementation.
 
-3. After the event, through [email](mailto:bettercodehub@sig.eu)
+3. After the event, through [email](mailto:bettercodehub@sig.eu).
 
 
 ## How to get points for technical quality
