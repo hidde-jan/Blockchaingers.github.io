@@ -1,8 +1,10 @@
-# Code quality during Blockchaingers Hackathon!
+# Code quality matters during Blockchaingers Hackathon!
 
 When: 5 - 8 April 2018.
 
-Where: The Big Building, Groningen NL
+Where: Sugarfactory, Groningen NL
+
+[https://blockchaingers.org](https://blockchaingers.org)
 
 
 ## Example Hackathon Scoreboard
