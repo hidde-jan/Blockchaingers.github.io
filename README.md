@@ -37,7 +37,7 @@ Team | Better Code Score
 
 4. Press play and get instant feedback on the guidelines and pick refactor candidates.
 
-5. Click on the Pull request icon to make Better Code Hub on every Push and Pull Request.
+5. Click on the Pull request icon to make Better Code Hub analyse every Push and Pull Request.
 
 
 ## How to get support
