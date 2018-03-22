@@ -20,11 +20,11 @@ Team | Better Code Score
 
 1. Your code will be evaluated against 10 guidelines for building future-proof code. The guidelines are described in full in [“Building Maintainable Software”](http://shop.oreilly.com/product/0636920049159.do) (Ask for a free copy at the event)
 
-2. Find a concise reference card of the guidelines [here](https://cdn-images-1.medium.com/max/1200/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
+2. Find a concise reference card of the guidelines [here](https://cdn-images-1.medium.com/max/1200/1*TS-ZTeI7sQS7dy_AlMqSXQ.png).
 
 3. You can check your code against the guidelines using Better Code Hub, a GitHub integration provided by [Software Improvement Group SIG](https://www.sig.eu). Better Code Hub integrates with the GitHub CI and can run at Pull Requests and Pushes.
 
-4. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum codebase size 200 KLoc
+4. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum codebase size 200 KLoc.
 
 
 ## How to get started
@@ -51,11 +51,11 @@ Team | Better Code Score
 
 ## How to get points for technical quality
 
-1. You get points based on your score in Better Code Hub
+1. You get points based on your score in Better Code Hub.
 
-2. The more guidelines you get right, the more points you get
+2. The more guidelines you get right, the more points you get.
 
-3. On Sunday April 8th ask for a sticker with your score and put the sticker on the canvas
+3. On Sunday April 8th ask for a sticker with your score and put the sticker on the canvas.
 
 
 
