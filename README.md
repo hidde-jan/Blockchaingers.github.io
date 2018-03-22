@@ -49,7 +49,7 @@ Team | Better Code Score
 3. After the event, through [email](mailto:bettercodehub@sig.eu).
 
 
-## How to get points for technical quality
+## How to get points for technical quality?
 
 1. You get points based on your score in Better Code Hub.
 
