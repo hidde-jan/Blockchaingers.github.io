@@ -8,14 +8,6 @@ Where: Sugarfactory, Groningen NL
 
 
 
-## Example Hackathon Scoreboard
-
-Not on the scoreboard? Let the BCH team know on the #bettercodehub-support Slack channel
-
-Team | Better Code Score
---- | ---
-[dbh17-abraxas/ShareEverythingWeb](https://github.com/dbh17-abraxas/ShareEverythingWeb) | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com)
-
 
 ## How your code is evaluated
 
@@ -50,7 +42,6 @@ Team | Better Code Score
 3. After the event, through bettercodehub@sig.eu 
 
 
-
 ## How to get points for technical quality
 
 1. You get based on your score in Better Code Hub
@@ -58,6 +49,15 @@ Team | Better Code Score
 2. The more guidelines you get right, the more points you get
 
 If you are not on GitHub or your programming language is not supported, talk to us
+
+
+## Example Hackathon Scoreboard
+
+Not on the scoreboard? Let the BCH team know on the #bettercodehub-support Slack channel
+
+Team | Better Code Score
+--- | ---
+[dbh17-abraxas/ShareEverythingWeb](https://github.com/dbh17-abraxas/ShareEverythingWeb) | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com)
 
 
 ## Why Blockchain needs Future-Proof code
