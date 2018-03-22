@@ -4,7 +4,8 @@ When: 5 - 8 April 2018.
 
 Where: Sugarfactory, Groningen NL
 
-[https://blockchaingers.org](https://blockchaingers.org)
+[Website:](https://blockchaingers.org)
+
 
 
 ## Example Hackathon Scoreboard
