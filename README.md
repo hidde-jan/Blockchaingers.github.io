@@ -51,11 +51,11 @@ Team | Better Code Score
 
 ## How to get points for technical quality
 
-1. You get based on your score in Better Code Hub
+1. You get points based on your score in Better Code Hub
 
 2. The more guidelines you get right, the more points you get
 
-3. Ask for a sticker with your score and out the sticker on the canvas
+3. On Sunday April 8th ask for a sticker with your score and put the sticker on the canvas
 
 
 
