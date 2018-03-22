@@ -55,7 +55,11 @@ Team | Better Code Score
 
 2. The more guidelines you get right, the more points you get.
 
-3. On Sunday April 8th ask for a sticker with your score and put the sticker on the canvas.
+3. if you have multiple repos the lowest scoring repo is your final mark (weakest link principle).
+
+4. On Sunday April 8th between 9:00 and 11:00 ask for a sticker with your final score.
+
+5. Put the sticker on the canvas.
 
 
 
