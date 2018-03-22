@@ -9,7 +9,7 @@ Where:  The former Sugar Factory, Groningen NL
 
 ## Example Hackathon Scoreboard
 
-Not on the scoreboard? Let the BCH team know on the #bettercodehub-support Slack channel
+Not on the scoreboard? Let the Better Code Hub team know on Slack
 
 Team | Better Code Score
 --- | ---
@@ -22,7 +22,7 @@ Team | Better Code Score
 
 2. Find a concise reference card of the guidelines [here](https://cdn-images-1.medium.com/max/1200/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
 
-3. You can check your code against the guidelines using Better Code Hub, a [GitHub.com](https://Github.com) integration provided by [Software Improvement Group SIG](https://www.sig.eu). Better Code Hub integrates with the GitHub Flow and can run at Pull Requests and Commits.
+3. You can check your code against the guidelines using Better Code Hub, a GitHub integration provided by [Software Improvement Group SIG](https://www.sig.eu). Better Code Hub integrates with the GitHub CI and can run at Pull Requests and Pushes.
 
 4. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum codebase size 200 KLoc
 
@@ -31,20 +31,20 @@ Team | Better Code Score
 
 1. Mail your team name and personal GitHub handles to the BlockChaingers.
 
-2. Your team will be added to this [Organization](https://github.com/blockchaingers)
+2. Your team will be added to this [Organization](https://github.com/blockchaingers).
 
-3. Go to [bettercodehub.com](https://bettercodehub.com) 
+3. Go to [bettercodehub.com](https://bettercodehub.com) and accept the scopes. 
 
-4. Press play and get instant feedback on the guidelines and pick refactor candidates
+4. Press play and get instant feedback on the guidelines and pick refactor candidates.
 
-5. Click on the Pull request icon to enable BetterCodeHub to run in your CICD
+5. Click on the Pull request icon to make Better Code Hub on every Push and Pull Request.
 
 
 ## How to get support
 
 1. Before the event, through bettercodehub@sig.eu
 
-2. During the event by talking to Better Code Hub team of SIG with questions about refactoring tactics
+2. During the event by talking to Better Code Hub jedi with questions about refactoring tactics and blockchain implementation
 
 3. After the event, through bettercodehub@sig.eu 
 
@@ -55,7 +55,7 @@ Team | Better Code Score
 
 2. The more guidelines you get right, the more points you get
 
-If you are not on GitHub or your programming language is not supported, talk to us
+3. Ask for a sticker with your score and out the sticker on the canvas
 
 
 
