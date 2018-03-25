@@ -31,7 +31,7 @@ Team | Better Code Score
 
 1. Mail your team name and personal GitHub handles to the BlockChaingers.
 
-2. Your team will be added to this [Organization](https://github.com/blockchaingers) by [Jelmer](https://github.com/jelmervdwijk)or [BJ](https://github.com/jelmervdwijk)
+2. Your team will be added to this [Organization](https://github.com/blockchaingers) by [Jelmer](https://github.com/jelmervdwijk) or [BJ](https://github.com/jelmervdwijk)
 
 3. Go to [bettercodehub.com](https://bettercodehub.com) and accept the scopes. 
 
