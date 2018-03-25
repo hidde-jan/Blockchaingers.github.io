@@ -31,7 +31,7 @@ Team | Better Code Score
 
 1. Mail your team name and personal GitHub handles to the BlockChaingers.
 
-2. Your team will be added to this [Organization](https://github.com/blockchaingers).
+2. Your team will be added to this [Organization](https://github.com/blockchaingers) by [Jelmer](https://github.com/jelmervdwijk)or [BJ](https://github.com/jelmervdwijk)
 
 3. Go to [bettercodehub.com](https://bettercodehub.com) and accept the scopes. 
 
@@ -44,7 +44,7 @@ Team | Better Code Score
 
 1. Before the event, through [email](mailto:bettercodehub@sig.eu).
 
-2. During the event by talking to Better Code Hub jedi with questions about refactoring tactics and blockchain implementation.
+2. During the event by talking to Better Code Hub jedi with questions about refactoring tactics and blockchain implementation. use slack-channel: bettercodehub_support
 
 3. After the event, through [email](mailto:bettercodehub@sig.eu).
 
