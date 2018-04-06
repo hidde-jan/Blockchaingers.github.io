@@ -27,11 +27,14 @@ Website: [Blockchaingers.org](https://blockchaingers.org)
 
 3. Put your repo in your team in the [BlockChaingers Organization](https://github.com/blockchaingers)
 
-3. Go to [bettercodehub.com](https://bettercodehub.com) and accept the scopes. 
+- You first need to add/create the repository within the blockchaingers org (using the + next to your profile icon) 
+- then go to your team -> repositories -> add -> and add the created respository
 
-4. Press play and get instant feedback on the guidelines and pick refactor candidates.
+4. Go to [bettercodehub.com](https://bettercodehub.com) and accept the scopes. 
 
-5. Click on the Pull request icon to make Better Code Hub analyse every Push and Pull Request.
+5. Press play and get instant feedback on the guidelines and pick refactor candidates.
+
+6. Click on the Pull request icon to make Better Code Hub analyse every Push and Pull Request.
 
 
 ## How to get support
