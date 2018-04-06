@@ -25,6 +25,8 @@ Website: [Blockchaingers.org](https://blockchaingers.org)
 
 2. Your team will be added to this [Organization](https://github.com/blockchaingers) by [Jelmer](https://github.com/jelmervdwijk) or [BJ](https://github.com/jelmervdwijk)
 
+3. Put your repo in your team in the [BlockChaingers Org](https://github.com/blockchaingers)
+
 3. Go to [bettercodehub.com](https://bettercodehub.com) and accept the scopes. 
 
 4. Press play and get instant feedback on the guidelines and pick refactor candidates.
