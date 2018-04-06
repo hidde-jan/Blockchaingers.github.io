@@ -21,9 +21,13 @@ Website: [Blockchaingers.org](https://blockchaingers.org)
 
 ## How to get started
 
-1. Mail your team name and personal GitHub handles to the BlockChaingers.
+1. All the teams were created on forehand and email invites were send. Please check these invite emails from GitHub.
+- Today at the Hackathon please use slack bettercodehub_support to send us your handles. 
+- We will make you a maintainer of your team. 
+- You will be able to new private repos
+- The blockchainger repo can be a 'Git Remote' or you use it to work in directly.
 
-2. Your team will be added to this [BlockChaingers Organization](https://github.com/blockchaingers) by [Jelmer](https://github.com/jelmervdwijk) or [BJ](https://github.com/jelmervdwijk)
+2. Your team will be added to this [BlockChaingers Organization](https://github.com/blockchaingers) or [BJ](https://github.com/jelmervdwijk)
 
 3. Put your repo in your team in the [BlockChaingers Organization](https://github.com/blockchaingers)
 
