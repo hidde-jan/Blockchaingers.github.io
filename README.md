@@ -56,14 +56,11 @@ Website: [Blockchaingers.org](https://blockchaingers.org)
 5. Put the sticker on the canvas.
 
 
-## Example Hackathon Scoreboard
+## BlockChaingers Hackathon Scoreboard
 
-Not on the scoreboard? Let the Better Code Hub team know on Slack
+All the badges of the repos are collected [Here](https://blockchaingers.github.io/BCH_ScoreBoard)
 
-Team | Better Code Score
---- | ---
-[dbh17-abraxas/ShareEverythingWeb](https://github.com/dbh17-abraxas/ShareEverythingWeb) | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com)
-
+Not on the scoreboard? Let the Better Code Hub team know on Slack or send a PR.
 
 
 ## Why Blockchain needs Future-Proof code
