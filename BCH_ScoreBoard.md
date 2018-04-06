@@ -5,9 +5,11 @@ Not on the scoreboard? Let the Better Code Hub team know on Slack or send in a P
 Team | Better Code Score
 --- | ---
 [Bencom](https://github.com/Blockchaingers/bencom) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/Bencom?branch=master&token=1cace14f8831e7fdced167bddffc4a99382a1dcf)](https://bettercodehub.com/)
+[budi](https://github.com/Blockchaingers/budi) | [![BCH compliance][![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/budi?branch=master&token=d5e065e8b059aee9c5065838377e2d4e40e1fd59)](https://bettercodehub.com/)
 [budi-api](https://github.com/Blockchaingers/budi-api) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/budi-api?branch=master&token=14bc7680ffb95e2063310f12d1734d916918f766)](https://bettercodehub.com/)
 [consense](https://github.com/Blockchaingers/consense) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/consense?branch=master&token=e624621f76990d8f15909afbc1253cd876a08b21)](https://bettercodehub.com/)
 [enshore_backend](https://github.com/Blockchaingers/enshore_backend) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/enshore_backend?branch=master&token=d1b463c2c4f7ba4a719f2f9ffa87fe7ef9df8010)](https://bettercodehub.com/)
+[hashtag-medical](https://github.com/Blockchaingers/hashtag-medical) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/hashtag-medical?branch=master&token=23948e8dff7db5849df80d28f1aaba6f4500e450)](https://bettercodehub.com/)branch=master&token=d1b463c2c4f7ba4a719f2f9ffa87fe7ef9df8010)](https://bettercodehub.com/)
 [HealthUnchained-ZorgWallet](https://github.com/Blockchaingers/HealthUnchained-ZorgWallet) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/HealthUnchained-ZorgWallet?branch=master&token=f18c9f7cc9abb1d5671ad7a18b97f29f8f1336fb)](https://bettercodehub.com/)
 [housepass-frontend](https://github.com/Blockchaingers/housepass-frontend) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/housepass-frontend?branch=master&token=6c2837d6ac854cf8643b931a588749336d93fe66)](https://bettercodehub.com/)
 [Huiskluis](https://github.com/Blockchaingers/Huiskluis) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/huiskluis?branch=master)](https://bettercodehub.com/)
