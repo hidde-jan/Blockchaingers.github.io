@@ -16,5 +16,6 @@ Team | Better Code Score
 [Lemon](https://github.com/Blockchaingers/Lemon) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/Lemon?branch=master&token=d8dad441dfbf200a1920587cba1a45a040168681)](https://bettercodehub.com/)
 [LunaBound](https://github.com/Blockchaingers/LunaBound) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/LunaBound?branch=master)](https://bettercodehub.com/)
 [RepItUp](https://github.com/Blockchaingers/RepItUp) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/RepItUp?branch=master&token=cc6837447d94b87885b33f8fa539a0007f5a8c51)](https://bettercodehub.com/)
+[rxdical-medivault](https://github.com/DesmondPeace/rxdical-medivault) | [![BCH compliance](https://bettercodehub.com/edge/badge/DesmondPeace/rxdical-medivault?branch=master)](https://bettercodehub.com/)
 [Topicus](https://github.com/Blockchaingers/topicus) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/Topicus?branch=master&token=3a2e1abca5eeb0bcc661390e6297b221c0135164)](https://bettercodehub.com/)
 [veridenkey](https://github.com/Blockchaingers/veridenkey) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/veridenkey?branch=master&token=b5180a0d0155b97b2cf9b46bab9beac0c2a7a995)](https://bettercodehub.com/)
