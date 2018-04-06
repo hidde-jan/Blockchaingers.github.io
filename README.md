@@ -7,14 +7,6 @@ Where:  The former Sugar Factory, Groningen NL
 Website: [Blockchaingers.org](https://blockchaingers.org)
 
 
-## Example Hackathon Scoreboard
-
-Not on the scoreboard? Let the Better Code Hub team know on Slack
-
-Team | Better Code Score
---- | ---
-[dbh17-abraxas/ShareEverythingWeb](https://github.com/dbh17-abraxas/ShareEverythingWeb) | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com)
-
 
 ## How your code is evaluated
 
@@ -60,6 +52,15 @@ Team | Better Code Score
 4. On Sunday April 8th between 9:00 and 11:00 ask for a sticker with your final score.
 
 5. Put the sticker on the canvas.
+
+
+## Example Hackathon Scoreboard
+
+Not on the scoreboard? Let the Better Code Hub team know on Slack
+
+Team | Better Code Score
+--- | ---
+[dbh17-abraxas/ShareEverythingWeb](https://github.com/dbh17-abraxas/ShareEverythingWeb) | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com)
 
 
 
