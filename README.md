@@ -58,7 +58,11 @@ Website: [Blockchaingers.org](https://blockchaingers.org)
 
 ## BlockChaingers Hackathon Scoreboard
 
-All the badges of the repos are collected [Here](https://blockchaingers.github.io/BCH_ScoreBoard)
+Team | Better Code Score
+--- | ---
+[Example team ](https://github.com/dbh17-abraxas/ShareEverythingWeb) | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com)
+
+All the badges of the repos are collected [here](https://blockchaingers.github.io/BCH_ScoreBoard)
 
 Not on the scoreboard? Let the Better Code Hub team know on Slack or send a PR.
 
