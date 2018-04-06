@@ -18,27 +18,28 @@ Website: [Blockchaingers.org](https://blockchaingers.org)
 
 4. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum codebase size 200 KLoc.
 
+## How to contact us
+- At the Hackathon please use slack bettercodehub_support Jan Laan or Michiel Cuijpers 
 
 ## How to get started
 
 1. All the teams were created on forehand and email invites were send. Please check these invite emails from GitHub.
-- At the Hackathon please use slack bettercodehub_support to send us your handles in case of trouble. 
-- We will make you maintainera of your team. 
-- You will be able to create new private repos and add these to the team.
-- Your blockchainger repos can be a 'Git Remote'
 
-2. Your team will be added to this [BlockChaingers Organization](https://github.com/blockchaingers) by the Jedi on slack!
+- Your team will be added in this [BlockChaingers Organization](https://github.com/blockchaingers)
+- You will be a maintainer of your team, so you can add more people.
+- You will be able to create private repos and add please these to the team.
+- Your blockchainger repo can be a 'Git Remote'
 
-3. Put your repo in your team in the [BlockChaingers Organization](https://github.com/blockchaingers)
+2. Add your repo to your team in the [BlockChaingers Organization](https://github.com/blockchaingers)
 
 - You first need to add/create the repository within the blockchaingers org (using the + next to your profile icon) 
 - then go to your team -> repositories -> add -> and add the created respository
 
-4. Go to [bettercodehub.com](https://bettercodehub.com) and accept the scopes. 
+3. Go to [bettercodehub.com](https://bettercodehub.com) and accept the scopes. 
 
-5. Press play and get instant feedback on the guidelines and pick refactor candidates.
+4. Press play and get instant feedback on the guidelines and pick refactor candidates.
 
-6. Click on the Pull request icon to make Better Code Hub analyse every Push and Pull Request.
+5. Click on the Pull request icon to make Better Code Hub analyse every Push and Pull Request.
 
 
 ## How to get support
