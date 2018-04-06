@@ -27,7 +27,7 @@ Website: [Blockchaingers.org](https://blockchaingers.org)
 - You will be able to create new private repos and add these to the team.
 - Your blockchainger repos can be a 'Git Remote'
 
-2. Your team will be added to this [BlockChaingers Organization](https://github.com/blockchaingers) or [BJ](https://github.com/jelmervdwijk)
+2. Your team will be added to this [BlockChaingers Organization](https://github.com/blockchaingers) by the Jedi on slack!
 
 3. Put your repo in your team in the [BlockChaingers Organization](https://github.com/blockchaingers)
 
