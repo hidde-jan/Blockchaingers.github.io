@@ -77,7 +77,7 @@ Read more [On why it needs high quality code ](https://medium.com/@jstvssr/why-b
 Or about the [2017 Dutch Blockchain Hackathon in Groningen](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code)
 
 
-Let's build some great software!
+Let's build some great software!!
 
 [Michiel](https://github.com/michielcuijpers)
 
