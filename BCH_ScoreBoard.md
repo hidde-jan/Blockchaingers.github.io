@@ -4,5 +4,4 @@ Not on the scoreboard? Let the Better Code Hub team know on Slack or send in a P
 
 Team | Better Code Score
 --- | ---
-[Your here team ](https://github.com/dbh17-abraxas/ShareEverythingWeb) | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com)
-[Your team here](https://github.com/dbh17-abraxas/ShareEverythingWeb) | [![BCH compliance](https://bettercodehub.com/edge/badge/dbh17-abraxas/ShareEverythingWeb)](https://bettercodehub.com)
+[RepItUp](https://github.com/Blockchaingers/RepItUp) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/RepItUp?branch=master&token=cc6837447d94b87885b33f8fa539a0007f5a8c51)](https://bettercodehub.com/)
