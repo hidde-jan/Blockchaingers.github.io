@@ -13,6 +13,7 @@ Team | Better Code Score
 [HealthUnchained-ZorgWallet](https://github.com/Blockchaingers/HealthUnchained-ZorgWallet) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/HealthUnchained-ZorgWallet?branch=master&token=f18c9f7cc9abb1d5671ad7a18b97f29f8f1336fb)](https://bettercodehub.com/)
 [housepass-frontend](https://github.com/Blockchaingers/housepass-frontend) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/housepass-frontend?branch=master&token=6c2837d6ac854cf8643b931a588749336d93fe66)](https://bettercodehub.com/)
 [Huiskluis](https://github.com/Blockchaingers/Huiskluis) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/huiskluis?branch=master)](https://bettercodehub.com/)
+[Hyper42](https://github.com/EBPI/hyper42-hackathon) | [![BCH compliance](https://bettercodehub.com/edge/badge/EBPI/Hyper42-Hackathon?branch=master)](https://bettercodehub.com/)
 [Lemon](https://github.com/Blockchaingers/Lemon) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/Lemon?branch=master&token=d8dad441dfbf200a1920587cba1a45a040168681)](https://bettercodehub.com/)
 [LunaBound](https://github.com/Blockchaingers/LunaBound) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/LunaBound?branch=master)](https://bettercodehub.com/)
 [RepItUp](https://github.com/Blockchaingers/RepItUp) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/RepItUp?branch=master&token=cc6837447d94b87885b33f8fa539a0007f5a8c51)](https://bettercodehub.com/)
