@@ -1,4 +1,4 @@
-## BlockChaingers Hackathon Scoreboard. Includes Score 7+ 👍 Next update: Sunday 🚀
+## BlockChaingers Hackathon Scoreboard. Includes Score 7+ 👍 Next update: Sunday 🚀 
 
 |Team | Better Code Score | Team | Better Code Score | Team | Better Code Score
  |--- | --- | --- | --- |
