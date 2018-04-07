@@ -3,7 +3,7 @@
 Not on the scoreboard? Let the Better Code Hub team know on Slack or send in a PR.
 
 |Team | Better Code Score |
-| --- | --- |
+| ---: | --- |
 |[Accenture](https://github.com/Blockchaingers/accenture) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/Accenture?branch=master&token=88a256e71d187fa392b77979321d269defa884ea)](https://bettercodehub.com/)
 |[atma](https://github.com/Blockchaingers/atma) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/atma?branch=master&token=45a20fa286d5e419a8675630684c1e703ddf77a2)](https://bettercodehub.com/)
 |[Bencom](https://github.com/Blockchaingers/bencom) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/Bencom?branch=master&token=1cace14f8831e7fdced167bddffc4a99382a1dcf)](https://bettercodehub.com/)
