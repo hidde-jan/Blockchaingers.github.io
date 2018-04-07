@@ -1,10 +1,4 @@
-## BlockChaingers Hackathon Scoreboard at 12:30
-
-## Includes Score 7+ 👍
-
-## Next update 18:00 🚀
-
-Not on the scoreboard? Let the Better Code Hub team know on Slack or send in a PR.
+## BlockChaingers Hackathon Scoreboard. Includes Score 7+ 👍 Next update 18:00 🚀
 
 Team | Better Code Score |
 | --- | --- | 
