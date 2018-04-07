@@ -43,6 +43,7 @@ Not on the scoreboard? Let the Better Code Hub team know on Slack or send in a P
 |[pauwer](https://github.com/Blockchaingers/pauwer) |[![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/pauwer?branch=master)](https://bettercodehub.com/)
 |[pensioen.nu](https://github.com/Blockchaingers/pensioen.nu) |[![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/pensioen.nu?branch=master&token=a415fea33d78e3dc5a4a7b8cd285a8ce9493d8c0)](https://bettercodehub.com/)
 |[raspberry-pi-client](https://github.com/Blockchaingers/raspberry-pi-client) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/raspberry-pi-client?branch=master)](https://bettercodehub.com/)
+|[rc8e60](https://github.com/rc8e60/blockchaingers) | [![BCH compliance](https://bettercodehub.com/edge/badge/rc8e60/blockchaingers?branch=master)](https://bettercodehub.com/)
 |[redy](https://github.com/Blockchaingers/redy) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/redy?branch=master)](https://bettercodehub.com/)
 |[RepItUp](https://github.com/Blockchaingers/RepItUp) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/RepItUp?branch=master&token=cc6837447d94b87885b33f8fa539a0007f5a8c51)](https://bettercodehub.com/)
 |[researchpool](https://github.com/Blockchaingers/researchpool) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/researchpool?branch=master&token=6ccff5410806088b463d0cec128793c52bb78f2d)](https://bettercodehub.com/)
