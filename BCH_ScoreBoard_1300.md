@@ -1,7 +1,7 @@
 ## BlockChaingers Hackathon Scoreboard at 13:00
 
 
-## Score 8+
+## Score 7+
 
 ## Next update 18:00
 
