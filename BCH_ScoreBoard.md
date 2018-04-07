@@ -37,6 +37,7 @@ Not on the scoreboard? Let the Better Code Hub team know on Slack or send in a P
 |[LegalThingsOne](https://github.com/Blockchaingers/LegalThingsOne) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/LegalThingsOne?branch=master&token=076a8a9f0a10fd59f736504bf392ddcd0cd36dcc)](https://bettercodehub.com/)
 |[LunaBound](https://github.com/Blockchaingers/LunaBound) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/LunaBound?branch=master)](https://bettercodehub.com/)
 |[Medichain](https://github.com/Blockchaingers/medichain) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/medichain?branch=master)](https://bettercodehub.com/)
+|[oneUp-ketchup](https://github.com/Blockchaingers/oneup-ketchup) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/oneUp-ketchup?branch=master)](https://bettercodehub.com/)
 |[Parking3.0](https://github.com/Blockchaingers/parking3.0) |[![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/Parking3.0?branch=master&token=8c921bfd8784d2e263a2ccfae54ea1914b4d8f31)](https://bettercodehub.com/)
 |[pauwer](https://github.com/Blockchaingers/pauwer) |[![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/pauwer?branch=master)](https://bettercodehub.com/)
 |[pensioen.nu](https://github.com/Blockchaingers/pensioen.nu) |[![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/pensioen.nu?branch=master&token=a415fea33d78e3dc5a4a7b8cd285a8ce9493d8c0)](https://bettercodehub.com/)
