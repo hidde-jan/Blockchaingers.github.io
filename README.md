@@ -50,6 +50,14 @@ Website: [Blockchaingers.org](https://blockchaingers.org)
 
 3. After the event, through [email](mailto:bettercodehub@sig.eu).
 
+## How to exclude your configuration / library files from analysis
+
+1. Get your current configuration file from your project settings. (Gear icon on bettercodehub.com)
+
+2. PLace that config in _.bettercodehub.yml_ in your repository root
+
+3. Add a section called exclude, in there add the files/folders you want to exclude. Supported exclusion options can be found [at the bettercodehub documentation](https://bettercodehub.com/docs/configuration-manual)
+
 
 ## How to get points for technical quality?
 
