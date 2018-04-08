@@ -1,4 +1,5 @@
 ## BlockChaingers Hackathon Scoreboard. 👍  🚀
+## Get your Canvas sticker between 10:30 and 12:00 @ the 3D printer
 
 |Team | Better Code Hub | Team | Better Code Hub | Team | Better Code Hub
  |--- | --- | --- | --- |
