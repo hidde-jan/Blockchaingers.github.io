@@ -45,7 +45,7 @@ Not on the scoreboard? Let the Better Code Hub team know on Slack or send in a P
 |[lo](https://github.com/karelv/lo) | [![BCH compliance](https://bettercodehub.com/edge/badge/karelv/lo?branch=master)](https://bettercodehub.com/)
 |[LunaBound](https://github.com/Blockchaingers/LunaBound) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/LunaBound?branch=master)](https://bettercodehub.com/)
 |[Medichain](https://github.com/Blockchaingers/medichain) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/medichain?branch=master)](https://bettercodehub.com/)
-|[MichelRoeland](https://github.com/MichelRoeland/BlockchainHackaton) | [![BCH compliance](https://bettercodehub.com/edge/badge/MichelRoeland/BlockchainHackaton?branch=master)](https://bettercodehub.com/)
+|[StoneyCreek](https://github.com/MichelRoeland/BlockchainHackaton) | [![BCH compliance](https://bettercodehub.com/edge/badge/MichelRoeland/BlockchainHackaton?branch=master)](https://bettercodehub.com/)
 |[Odd.Bot](https://github.com/Blockchaingers/odd.bot) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/Odd.Bot?branch=master)](https://bettercodehub.com/)
 |[oftechlabs](https://github.com/Blockchaingers/oftechlabs) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/oftechlabs?branch=develop&token=3d56de2f0312df01430d5d0cb41d34a38421f673)](https://bettercodehub.com/)
 |[oneUp-ketchup](https://github.com/Blockchaingers/oneup-ketchup) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/oneUp-ketchup?branch=master)](https://bettercodehub.com/)
