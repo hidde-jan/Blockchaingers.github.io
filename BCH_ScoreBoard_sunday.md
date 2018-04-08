@@ -1,6 +1,6 @@
-## BlockChaingers Hackathon Scoreboard. 👍  🚀 
+## BlockChaingers Hackathon Scoreboard. 👍  🚀
 
-|Team | Better Code Score | Team | Better Code Score | Team | Better Code Score
+|Team | Better Code Hub | Team | Better Code Hub | Team | Better Code Hub
  |--- | --- | --- | --- |
  |[AC-BC](https://github.com/Blockchaingers/ac-bc) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/AC-BC?branch=master&token=1314b88105d9dabfaa4638580e7c17fe34ac2ce0)](https://bettercodehub.com/)|[Accenture](https://github.com/Blockchaingers/accenture) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/Accenture?branch=master&token=88a256e71d187fa392b77979321d269defa884ea)](https://bettercodehub.com/)|[atma](https://github.com/Blockchaingers/atma) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/atma?branch=master&token=45a20fa286d5e419a8675630684c1e703ddf77a2)](https://bettercodehub.com/)
  |[BadgeX](https://github.com/Blockchaingers/badgex) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/BadgeX?branch=master)](https://bettercodehub.com/)|[Bencom](https://github.com/Blockchaingers/bencom) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/Bencom?branch=master&token=1cace14f8831e7fdced167bddffc4a99382a1dcf)](https://bettercodehub.com/)|[blockproof-back-end](https://github.com/Blockchaingers/blockproof-back-end) | [![BCH compliance](https://bettercodehub.com/edge/badge/Blockchaingers/blockproof-back-end?branch=master&token=1f3f7fb9c59084f4b3c282fcdd707bb4178c4ef5)](https://bettercodehub.com/)
