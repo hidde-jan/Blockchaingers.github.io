@@ -67,7 +67,7 @@ Website: [Blockchaingers.org](https://blockchaingers.org)
 
 3. if you have multiple repos the lowest scoring repo is your final mark (weakest link principle).
 
-4. On Sunday April 8th between 9:00 and 11:59 ask for a sticker with your final score.
+4. On Sunday April 8th between 10:30 and 11:59 ask for a sticker with your final score.
 
 5. Put the sticker on the canvas.
 
